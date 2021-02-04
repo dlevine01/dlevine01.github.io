@@ -1,0 +1,15 @@
+img {
+    width: 100px;
+}
+h2, h4 {
+    color: #4C736F;
+    font-family: sans-serif;
+}
+p {
+    color: #444;
+    font-family: sans-serif;
+}
+.portfolio-item{
+    margin: 0 auto;
+    border: 2px solid #aaa;
+}
